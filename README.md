@@ -18,7 +18,7 @@ This is a modern and responsive landing page built using **HTML, CSS, and JavaSc
 
 ## 🔗 Live Preview
 
-[View Live Site](https://eshapatle.github.io/landing-page/)  
+[View Live Site] [(https://eshapatle.github.io/Prodigy-InfoTech_Landing-Page-/)]  
 
 ## 👤 Author
 
