@@ -23,4 +23,4 @@ This is a modern and responsive landing page built using **HTML, CSS, and JavaSc
 ## 👤 Author
 
 **Boss**  
-[GitHub](https://github.com/eshapatle) | [LinkedIn](https://linkedin.com/in/esha-patle-103713)
+[GitHub](https://github.com/eshapatle) | [LinkedIn](https://linkedin.com/in/esha-patle-10371330b)
