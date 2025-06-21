@@ -37,7 +37,10 @@ git clone https://github.com/Eshapatle/Prodigy-InfoTech_Landing-Page.git
 
 # Open index.html in any browser
 
-👤 Author
+---
+
+
+##👤 Author
 
 Esha Patle
 🎓 B.Tech CSE
