@@ -1,45 +1,48 @@
 # 🌐 Responsive Landing Page
 
-✅ **Internship Task** – Frontend Development  
-🏢 **Company**: Code Alpha 
-📌 **Project**: Responsive Landing Page using HTML, CSS, JS
+✅ **Internship Task** – Web Development  
+🏢 **Company**: Prodigy InfoTech  
+📄 **Project Title**: Responsive Multi-section Landing Page
 
 ---
 
 ## 🔹 Description  
-A professional, responsive landing page with:
-- ✅ Smooth scroll navigation  
+A modern landing page with:
 - ✅ Hero section with CTA  
-- ✅ Services/Features section  
-- ✅ About and Contact sections  
-- ✅ Fully mobile-responsive layout  
+- ✅ Features and services display  
+- ✅ About and contact info  
+- ✅ Responsive layout for all devices  
+- ✅ Smooth navbar scroll
 
 ---
 
 ## 🛠 Technologies Used  
 - HTML5  
-- CSS3 (Media Queries, Flexbox, Transitions)  
-- JavaScript (Navbar scroll effect, menu toggle)
+- CSS3  
+- JavaScript
 
 ---
 
 ## 🔗 Project Demo  
-🌍 **Live Website**: [(https://eshapatle.github.io/Prodigy-InfoTech_Landing-Page-/)]
-📂 **GitHub Source Code**: [GitHub Repo] (https://github.com/EshaPatle/Prodigy-InfoTech_Landing-Page-/)
+🌍 **Live Site**: [https://eshapatle.github.io/Prodigy-InfoTech_Landing-Page]  
+📂 **GitHub**: [https://github.com/Eshapatle/Prodigy-InfoTech_Landing-Page]
+
 ---
 
 ## 🚀 How to Run
 
 ```bash
-# 1. Clone the repository
-git clone https://github.com/your-username/responsive-landing-page.git
+# Clone the repo
+git clone https://github.com/Eshapatle/Prodigy-InfoTech_Landing-Page.git
 
-# 2. Open index.html in your browser
-
+# Open index.html in any browser
 
 👤 Author
 
 Esha Patle
-🎓 B.Tech CSE | 💻 Frontend Intern
-🔗 GitHub
-🔗 LinkedIn
+🎓 B.Tech CSE
+💼 Web Development Intern @ Prodigy InfoTech
+
+🔗 [GitHub](https://github.com/Eshapatle)
+
+🔗[LinkedIn] (www.linkedin.com/in/esha-patle-10371330b)
