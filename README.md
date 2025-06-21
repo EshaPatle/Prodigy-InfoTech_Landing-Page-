@@ -24,7 +24,7 @@ A professional, responsive landing page with:
 ---
 
 ## 🔗 Project Demo  
-🌍 **Live Website**: [https://your-username.github.io/responsive-landing-page](#) <!-- Replace with real link -->  
+🌍 **Live Website**: [(https://eshapatle.github.io/Prodigy-InfoTech_Landing-Page-/)]
 📂 **GitHub Source Code**: [GitHub Repo] (https://github.com/EshaPatle/Prodigy-InfoTech_Landing-Page-/)
 ---
 
@@ -37,7 +37,9 @@ git clone https://github.com/your-username/responsive-landing-page.git
 # 2. Open index.html in your browser
 
 
-## 👤 Author
+👤 Author
 
-**Boss**  
-[GitHub](https://github.com/eshapatle) | [LinkedIn](https://linkedin.com/in/esha-patle-10371330b)
+Esha Patle
+🎓 B.Tech CSE | 💻 Frontend Intern
+🔗 GitHub
+🔗 LinkedIn
