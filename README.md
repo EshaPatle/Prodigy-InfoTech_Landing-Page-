@@ -25,7 +25,7 @@ A modern landing page with:
 
 ## 🔗 Project Demo  
 🌍 **Live Site**: [https://eshapatle.github.io/Prodigy-InfoTech_Landing-Page]  
-📂 **GitHub**: [https://github.com/Eshapatle/Prodigy-InfoTech_Landing-Page]
+📂 **GitHub**: [https://github.com/EshaPatle/Prodigy-InfoTech_Landing-Page-?tab=readme-ov-file]
  🖇 **LinkedIn**: [www.linkedin.com/in/esha-patle-10371330b]
 ---
 
