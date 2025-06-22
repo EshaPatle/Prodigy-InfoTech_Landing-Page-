@@ -26,7 +26,7 @@ A modern landing page with:
 ## 🔗 Project Demo  
 🌍 **Live Site**: [https://eshapatle.github.io/Prodigy-InfoTech_Landing-Page]  
 📂 **GitHub**: [https://github.com/Eshapatle/Prodigy-InfoTech_Landing-Page]
-
+ 🖇 **LinkedIn**: [www.linkedin.com/in/esha-patle-10371330b]
 ---
 
 ## 🚀 How to Run
@@ -39,13 +39,3 @@ git clone https://github.com/Eshapatle/Prodigy-InfoTech_Landing-Page.git
 
 ---
 
-
-##👤 Author
-
-Esha Patle
-🎓 B.Tech CSE
-💼 Web Development Intern @ Prodigy InfoTech
-
-🔗 [GitHub](https://github.com/Eshapatle)
-
-🔗[LinkedIn] (www.linkedin.com/in/esha-patle-10371330b)
