@@ -6,7 +6,7 @@
 
 ---
 
-## 🔹 Description  
+## 🔹 Features
 A modern landing page with:
 - ✅ Hero section with CTA  
 - ✅ Features and services display  
@@ -24,18 +24,9 @@ A modern landing page with:
 ---
 
 ## 🔗 Project Demo  
-🌍 **Live Site**: [https://eshapatle.github.io/Prodigy-InfoTech_Landing-Page]  
+🌍 **Live Site**: [https://eshapatle.github.io/Prodigy-InfoTech_Landing-Page-/]  
 📂 **GitHub**: [https://github.com/EshaPatle/Prodigy-InfoTech_Landing-Page-?tab=readme-ov-file]
  🖇 **LinkedIn**: [www.linkedin.com/in/esha-patle-10371330b]
 ---
 
-## 🚀 How to Run
-
-```bash
-# Clone the repo
-git clone https://github.com/Eshapatle/Prodigy-InfoTech_Landing-Page.git
-
-# Open index.html in any browser
-
----
 
